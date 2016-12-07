@@ -1,0 +1,17 @@
+{
+  "name": "webpack-examples",
+  "version": "0.0.0",
+  "description": "display examples for webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "examples"
+  ],
+  "author": "liyl",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {}
+}
