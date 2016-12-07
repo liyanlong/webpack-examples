@@ -12,6 +12,11 @@
   ],
   "author": "liyl",
   "license": "ISC",
-  "dependencies": {},
-  "devDependencies": {}
+  "dependencies": {
+    "jquery": "^3.1.1"
+  },
+  "devDependencies": {
+    "css-loader": "^0.26.1",
+    "style-loader": "^0.13.1"
+  }
 }
